@@ -4,13 +4,15 @@
 [![Facebook Badge ](https://img.shields.io/badge/Alvaro_Muñoz-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/amunocis)](https://www.facebook.com/amunocis)
 [![Gmail Badge](https://img.shields.io/badge/-amunocis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amunocis@gmail.com)](mailto:amunocis@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Alvaro_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaromunozcisternas/)](https://www.linkedin.com/in/alvaromunozcisternas/)
+[![Reddit Badge](https://img.shields.io/badge/Owi_Ban-FF4500?style=flat-square&logo=reddit&logoColor=white&https://www.reddit.com/user/amunocis)](https://www.reddit.com/user/amunocis)
+![Discord Badge](https://img.shields.io/badge/Alvaro_M-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
 ## Hello there 👋,
-I'm Alvaro Muñoz, a n00b Android Developer from Santiago, Chile. I love cooking, and I can't stop eating Ramen :ramen:. Also, I love music :guitar:and I have been a musician for 35 years (yeah, I'm 45).
+I'm *Alvaro Muñoz*, a n00b Android Developer from Santiago, Chile. I love cooking, and I can't stop eating Ramen :ramen: . Also, I love music :guitar:and I have been a musician for 35 years (yeah, I'm 45).
 
-You can call me amunocis or Owi Ban, as some friends call me.
+You can call me *amunocis* or *Owi Ban*, as some friends call me.
 
 ## :bowtie: About me
 - :busts_in_silhouette: I love to be involved in communities, and I hope to learn a lot to help others grow
