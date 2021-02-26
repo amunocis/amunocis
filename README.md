@@ -24,6 +24,21 @@ You can call me *amunocis* or *Owi Ban*, as some friends call me.
 - :disappointed_relieved: I think **Google+** was awesome, until it stopped being awesome :(
 - My music background is mainly rock :metal:, but since 3 years I'm exploring **Ableton Live** :musical_score:, midi controllers :musical_keyboard: and electronic music :notes:
 - :space_invader: I love **Star Wars** and **Dave Filoni** and **Jon Favreau** are the best thing could happen to SW. Change my mind MF!
+- I like to use **Trello** with **Pomello** for Pomodoro. Also, I try to **Kanban** everything in my life
+
+## :neckbeard: Learning...
+### Right now :point_left:
+- Kotlin
+- Android
+- Material Design
+- Firebase
+- Git
+- Git Flow
+- Kanban
+### Someday :point_right:
+- Flutter
+- iOS
+- Kotlin Multiplatform
 
 ## Make Contact!! :alien:
 - 💬 Ask me about anything and everything! If I can help you, I will help you
