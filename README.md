@@ -25,9 +25,19 @@ You can call me *amunocis* or *Owi Ban*, as some friends call me.
 - My music background is mainly rock :metal:, but since 3 years I'm exploring **Ableton Live** :musical_score:, midi controllers :musical_keyboard: and electronic music :notes:
 - :space_invader: I love **Star Wars** and **Dave Filoni** and **Jon Favreau** are the best thing could happen to SW. Change my mind MF!
 
-# Make Contact!! :alien:
+## Make Contact!! :alien:
 - 💬 Ask me about anything and everything! If I can help you, I will help you
 - :name_badge: Try the badges at the top of this page to find me
 - 📫 You could contact me at [Whatsapp](https://wa.me/+56944376762), but please *don't send nudes* :wink: :wink:
 - 💬 Please, If you want to talk about any technology, I would be very appreciated. Invite me!
+
+## Some Pixel Art I made :grin:
+### Traffic Light
+![Pixel Art Traffic Light](https://64.media.tumblr.com/fbcdf4a3a2e0c2508e8d28d04024ba6b/9789824e0701a026-4f/s100x200/9bffecbfa04da1ef4f9e1c31805a0bd758d1bc7c.gifv)
+
+### Bouncing Ball
+![Bouncing Ball](https://64.media.tumblr.com/71ed4a0f4b33bfb1791e58ae1aabfca8/b327fac614ff6273-f3/s75x75_c1/e158dd0e92f5f9e0aebdef4ed8b002805552e504.gifv)
+
+### Daruma, with beautiful lightning
+![Daruma](https://64.media.tumblr.com/fe1f2da7a066bbd6bef68ce2fb2319f0/f70d07eb77c712d6-84/s100x200/0bce0f5a7ac27093c24c8ac282322021ff704afb.png)
 ---
