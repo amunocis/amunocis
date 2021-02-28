@@ -35,10 +35,12 @@ You can call me *amunocis* or *Owi Ban*, as some friends call me.
 - Git
 - Git Flow
 - Kanban
+- Hilt
 ### Someday :point_right:
 - Flutter
 - iOS
 - Kotlin Multiplatform
+- Jetpack Compose
 
 ## Make Contact!! :alien:
 - 💬 Ask me about anything and everything! If I can help you, I will help you
