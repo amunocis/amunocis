@@ -1,11 +1,10 @@
 # Alvaro Muñoz (amunocis)
 [![Twitter Badge](https://img.shields.io/badge/-@amunocis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amunocis)](https://twitter.com/amunocis)
 [![Instagram Badge](https://img.shields.io/badge/@amunocis-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amunocis/)](https://www.instagram.com/amunocis/)
-[![Facebook Badge ](https://img.shields.io/badge/Alvaro_Muñoz-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/amunocis)](https://www.facebook.com/amunocis)
+[![Facebook Badge ](https://img.shields.io/badge/Alvaro_Muñoz-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/amunocis)](https://www.facebook.com/amunocis)\
 [![Gmail Badge](https://img.shields.io/badge/-amunocis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amunocis@gmail.com)](mailto:amunocis@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Alvaro_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaromunozcisternas/)](https://www.linkedin.com/in/alvaromunozcisternas/)
 [![Reddit Badge](https://img.shields.io/badge/Owi_Ban-FF4500?style=flat-square&logo=reddit&logoColor=white&https://www.reddit.com/user/amunocis)](https://www.reddit.com/user/amunocis)
-![Discord Badge](https://img.shields.io/badge/Alvaro_M-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
