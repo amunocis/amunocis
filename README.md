@@ -34,7 +34,7 @@ You can call me *amunocis* or *Owi Ban*, as some friends call me.
 - Git
 - Git Flow
 - Kanban
-- Hilt
+- Dagger/Hilt
 ### Someday :point_right:
 - Flutter
 - iOS
