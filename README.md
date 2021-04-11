@@ -27,6 +27,8 @@ You can call me *amunocis* or *Owi Ban*, as some friends call me.
 
 ## :neckbeard: Learning...
 ### Right now :point_left:
+- Python
+- Flutter / Dart
 - Kotlin
 - Android
 - Material Design
@@ -36,7 +38,6 @@ You can call me *amunocis* or *Owi Ban*, as some friends call me.
 - Kanban
 - Dagger/Hilt
 ### Someday :point_right:
-- Flutter
 - iOS
 - Kotlin Multiplatform
 - Jetpack Compose
